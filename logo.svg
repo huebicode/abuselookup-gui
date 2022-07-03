@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400.0004"
+   height="350.00003"
+   viewBox="0 0 105.83343 92.604172"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6386"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.4671427"
+     inkscape:cx="166.65045"
+     inkscape:cy="175.17041"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <g
+     id="g7607">
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke-width:1.058;stop-color:#000000"
+       id="rect907"
+       width="105.83334"
+       height="92.604172"
+       x="7.103516e-05"
+       y="1.2553365e-06" />
+    <g
+       id="g905"
+       transform="matrix(0.75912952,0,0,0.75912951,-449.06438,4.640593)"
+       style="stroke-width:1.3173;fill:#00c1ff;fill-opacity:1">
+      <path
+         id="rect184"
+         style="display:inline;fill:#00c1ff;fill-opacity:1;stroke:none;stroke-width:1.3937;stop-color:#000000"
+         d="m 591.55171,-6.113044 v 20.911902 20.912419 20.911897 20.911913 20.91242 h 20.91191 V 77.535087 56.623174 35.711277 14.798858 h 20.91241 20.91191 20.9119 v 20.912419 20.911897 h 20.91242 V 35.711277 14.798858 -6.113044 h -20.91242 -20.9119 -20.91191 -20.91241 z" />
+      <path
+         id="rect184-7"
+         style="fill:#00c1ff;fill-opacity:1;stroke:none;stroke-width:1.3937;stop-color:#000000"
+         d="m 633.37603,35.711277 v 20.911897 20.911913 20.91242 h 20.91191 20.9119 20.91242 v -20.91242 h -20.91242 -20.9119 V 56.623174 35.711277 Z" />
+    </g>
+  </g>
+</svg>
