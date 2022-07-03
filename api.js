@@ -258,6 +258,7 @@ function bazaarImphashOutput(callback, inputVal){
         for(let item of sigSet){
             if(item) malList.push(item)
         }
+        if(malList.length === 0) malList = null
         let tags = getTags(malList)
 
         //OBJECTS COUNT (NOTES)
@@ -310,6 +311,7 @@ function bazaarGimphashOutput(callback, inputVal){
         for(let item of sigSet){
             if(item) malList.push(item)
         }
+        if(malList.length === 0) malList = null
         let tags = getTags(malList)
 
         //OBJECTS COUNT (NOTES)
@@ -362,6 +364,7 @@ function bazaarSerialOutput(callback, inputVal){
         for(let item of sigSet){
             if(item) malList.push(item)
         }
+        if(malList.length === 0) malList = null
         let tags = getTags(malList)
 
         //OBJECTS COUNT (NOTES)
@@ -509,10 +512,8 @@ function truncate(str, n){
 
 function getTags(arrPath){
     let tags = ""
-
     if(arrPath){
         let tagsArr = arrPath
-
         if(tagsArr.length > 1) {
             tagsArr.forEach((x,i) => tags = tags.concat(x + " "))
             tags = tags.padEnd(pTAGS)
