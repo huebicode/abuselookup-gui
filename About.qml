@@ -20,7 +20,7 @@ Rectangle{
             font.family: "Consolas"; font.pointSize: 12; font.bold: true
             background: Rectangle{color: "transparent"}
             text: "<div style='white-space: pre-wrap;'><img src='qrc:/logo.svg' width='110' style='float:left;' >"
-                  + "<font color=" + colorBlue + ">Abuse Lookup v1.1</font><br>"
+                  + "<font color=" + colorBlue + ">Abuse Lookup v1.2</font><br>"
                   + "Copyright (C) 2022 Alexander Hübert<br>"
                   + "License: LGPL<br>"
                   + "contact@huebicode.com<br>"
