@@ -1,4 +1,4 @@
 # Abuse Lookup GUI
 A GUI to query the API of [abuse.ch](https://abuse.ch/).
 
-![AbuseLookup](https://user-images.githubusercontent.com/3885373/175821080-a2dd3041-1a94-48e4-b547-020afcd7e0aa.png)
+![abuselookup](https://user-images.githubusercontent.com/3885373/178159059-7f791b5c-ee3c-4d97-97aa-72db3090973a.png)
